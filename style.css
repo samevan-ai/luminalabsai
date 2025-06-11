@@ -2,6 +2,9 @@
 /* 🌟 GLOBAL SETTINGS */
 /* ------------------------- */
 
+.fade-in { opacity: 1 !important; }
+
+
 html { scroll-behavior: smooth; }
 body {
   font-family: 'Montserrat', sans-serif;
